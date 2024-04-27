@@ -7,7 +7,7 @@ wait(5)
 
 local lib = loadstring(game:HttpGet"https://raw.githubusercontent.com/dawid-scripts/UI-Libs/main/Vape.txt")()
 
-local win = lib:Window("Main UI by slience bilibili:slienceScript",Color3.fromRGB(t.R * 255, t.G * 255, t.B * 255), Enum.KeyCode.RightControl)
+local win = lib:Window("Main UI by slience bilibili:slienceScript",Color3.fromRGB(50, 75, 85), Enum.KeyCode.RightControl)
 
 local tab = win:Tab("Mode☆ item○ other◇")
 
