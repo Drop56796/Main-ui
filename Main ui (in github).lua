@@ -1,7 +1,6 @@
 game:GetService("StarterGui"):SetCore("SendNotification",{
 		Title = "Loading...",
 		Text = "Main ui is loading",
-		Image = "http://www.roblox.com/asset/?id=..imageid"
 		Duration = 5
 	})
 wait(5)
